@@ -1,0 +1,5 @@
+package Paquetes;
+
+public enum Genero {
+	NOVELA,AVENTURA,SUSPENSO,POLICIAL,BIOGRAFIA,HISTORIA,ETC
+}
